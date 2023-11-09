@@ -47,7 +47,6 @@ class SideBarPage extends StatelessWidget {
                           ),
                         ),
                       ),
-
                       //menu side bar
                       //dashboard
                       ListTile(
